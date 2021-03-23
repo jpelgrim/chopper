@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.0-nullsafety.1
+
+- Use correct dart SDK version during null safety development phase.
+
 ## 4.0.0-nullsafety.0
 
 - Null safety
